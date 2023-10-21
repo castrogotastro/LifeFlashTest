@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//example change
 public class FollowPlayerX : MonoBehaviour
 {
     public GameObject player;
